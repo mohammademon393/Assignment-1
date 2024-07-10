@@ -1,0 +1,49 @@
+
+.azeret-mono-uniquifier {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+
+
+/* header styels */
+
+.all-header{
+    display:inline-block
+}
+.headline{
+    color: 0D1321;
+    font-weight: bolder;
+}
+.head-conteinar{
+    background-image:url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    height: 774px;
+    width: 1440px;
+    background-position: center;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+   
+    
+}
+.h-phera{
+    color: #0D1321;
+    font-size: 16px;
+
+}
+
+.img-hero{
+ margin-top: 200px;
+}
+.btn{
+    padding: 10px 20px ;
+    background-color: #0D1321;
+    margin-top: 32px ;
+    margin-bottom: 32px;
+    color: white;
+    border-radius: 5px;
+}
